@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2054960897238408097}
   - component: {fileID: 4274103157932929149}
   - component: {fileID: 5352352607431090513}
+  - component: {fileID: -3850388114282231706}
   m_Layer: 0
   m_Name: PegBlue
   m_TagString: Untagged
@@ -129,3 +130,19 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.36
+--- !u!114 &-3850388114282231706
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8567477519672044646}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3263d28450de12b4f870ad9080b89407, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Peg
+  Sprites:
+  - {fileID: -999456493432104195, guid: ac817fa8f0fb4e74996c341995625242, type: 3}
+  - {fileID: 21300000, guid: 5a67759bcc75422428a44adf5d2a38b5, type: 3}
+  - {fileID: 21300000, guid: 93532c4f46ce5dc4cb5d8e99b7b58771, type: 3}

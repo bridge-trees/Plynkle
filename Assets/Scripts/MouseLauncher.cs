@@ -9,6 +9,12 @@ public class MouseLauncher : MonoBehaviour
     void Update()
     {
         // if mouse is clicked
+        if (!Game.IsGameStarted())
+            return;
+
+        if (Mouse.current == null)
+            return;
+        
         if (Mouse.current.leftButton.wasPressedThisFrame)
         {
             Launch();

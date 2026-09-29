@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: -3850388114282231706}
   m_Layer: 0
   m_Name: PegBlue
-  m_TagString: Untagged
+  m_TagString: Peg
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146,3 +146,4 @@ MonoBehaviour:
   - {fileID: -999456493432104195, guid: ac817fa8f0fb4e74996c341995625242, type: 3}
   - {fileID: 21300000, guid: 5a67759bcc75422428a44adf5d2a38b5, type: 3}
   - {fileID: 21300000, guid: 93532c4f46ce5dc4cb5d8e99b7b58771, type: 3}
+  Sounds: {fileID: 0}

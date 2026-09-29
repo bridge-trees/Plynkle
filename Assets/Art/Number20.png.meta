@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 735f5620ccb2fe84f9556a633d2e4d78
+guid: 5eb654b938bf2a24c9100d14378d16c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3603556060819865620
-    second: ball_0
+      213: -5088666079770244971
+    second: Number20_0
+  - first:
+      213: 2638899064459506455
+    second: Number20_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +49,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,13 +103,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ball_0
+      name: Number20_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 34
-        height: 34
+        x: 5
+        y: 20
+        width: 27
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +118,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: cef30aaead89dfdc0800000000000000
-      internalID: -3603556060819865620
+      spriteID: 59807be492d6169b0800000000000000
+      internalID: -5088666079770244971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Number20_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7133837b7b04f9420800000000000000
+      internalID: 2638899064459506455
       vertices: []
       indices: 
       edges: []
@@ -135,7 +160,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ball_0: -3603556060819865620
+      Number20_0: -5088666079770244971
+      Number20_1: 2638899064459506455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -34,7 +34,6 @@ public class Peg : MonoBehaviour
         }
         else
         {
-            Sounds.PlayPegHitSound();
             showNextSprite();
             SpawnRingParticle();
         }

@@ -10,6 +10,7 @@ public class Game : MonoBehaviour
         // show the start screen
         isGameStarted = false;
         Ui.ShowStartScreen();
+        Ui.HideGui();
     }
 
     public void OnStartButtonClicked()
@@ -17,6 +18,7 @@ public class Game : MonoBehaviour
         print("OnStartButtonClicked");
        // hide the start screen
        Ui.HideStartScreen();
+       Ui.ShowGui();
        // remember that the game has started
        isGameStarted = true;
     }

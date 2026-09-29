@@ -2,6 +2,7 @@ using UnityEngine;
 
 public class Slot : MonoBehaviour
 {
+    public UI Ui;
     public int Points = 10;
     public void OnTriggerEnter2D(Collider2D other)
     {
@@ -19,5 +20,6 @@ public class Slot : MonoBehaviour
     private void ScorePoints()
     {
         ScoreKeeper.Add(Points);
+        Ui.ShowScore(ScoreKeeper.GetScore());
     }
 }

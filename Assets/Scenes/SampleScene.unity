@@ -768,6 +768,10 @@ PrefabInstance:
       propertyPath: Points
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider2
@@ -1100,6 +1104,10 @@ PrefabInstance:
       propertyPath: Ui
       value: 
       objectReference: {fileID: 656563951}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider6
@@ -2678,6 +2686,10 @@ PrefabInstance:
       propertyPath: Points
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider5
@@ -3201,6 +3213,10 @@ PrefabInstance:
       propertyPath: Points
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider3
@@ -3311,6 +3327,10 @@ PrefabInstance:
       propertyPath: Points
       value: 50
       objectReference: {fileID: 0}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider4
@@ -5180,6 +5200,10 @@ PrefabInstance:
       propertyPath: Ui
       value: 
       objectReference: {fileID: 656563951}
+    - target: {fileID: -1004114592487068987, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
+      propertyPath: Sounds
+      value: 
+      objectReference: {fileID: 355970628}
     - target: {fileID: 1383630589246402886, guid: a822168e66ad5034ba3cc9d9243dbe5a, type: 3}
       propertyPath: m_Name
       value: SlotCollider1
